@@ -11,4 +11,4 @@ for (let x = 0; x < spins.length; x++) {
     }, 400 + (x * 300));
   }
 }
- 
+ //
